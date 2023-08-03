@@ -1,0 +1,1 @@
+insert into usuarios values (1, 'admin@agendamento.com', '123456');
